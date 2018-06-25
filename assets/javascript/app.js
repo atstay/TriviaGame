@@ -39,9 +39,9 @@ var triviaQuestions = [{
 	answerList: ["Diddy", "Suge Knight", "Devante Swing", "R. Kelly"],
 	answer: 2
 },{
-	question: "Who does Tech N9ne credit with saving his life?",
-	answerList: ["Quincy Jones", "2Pac", "Marvin Gaye", "God"],
-	answer: 0
+	question: "This rapper's parents and several other people in his family were members of the Black Panther Party, whose ideals were reflected in his songs.",
+	answerList: ["DMX", "2Pac", "Nas", "Ice Cube"],
+	answer: 1
 },{
 	question: "Which rapper outshined Jay-Z during a freestyle on the lauded New York Radio Show 'The Stretch Armstrong and Bobbito Show'?",
 	answerList: ["Notorious B.I.G.", "Big L", "Ma$e", "Busta Rhymes"],
